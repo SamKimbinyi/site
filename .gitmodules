@@ -1,0 +1,3 @@
+[submodule "themes/geta"]
+	path = themes/geta
+	url = https://github.com/SamKimbinyi/geta.git
