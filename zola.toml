@@ -31,4 +31,5 @@ nav = [
     { name = "Home", url = "/" },
     { name = "Posts", url = "/posts/" },
     { name = "Tags", url = "/tags/" },
+    { name = "About", url = "/about/" },
 ]
